@@ -17,13 +17,20 @@ namespace P5
     {
         static void Main(string[] args)
         {
+            var vowels = new List<char>{ 'a', 'e', 'i', 'o', 'u' };
             Console.Write("Please enter an English word: ");
             var inputWord = Console.ReadLine().ToLower();
-            
+
+            var numberOfVowels = 0;
             for (var i = 0; i < inputWord.Length; i++)
             {
-                if 
+                if (vowels.Contains(inputWord[i]))
+                {
+                    numberOfVowels++;
+                }
             }
+
+            Console.WriteLine("There are {0} vowels in the word.", numberOfVowels);
         }
     }
 }
