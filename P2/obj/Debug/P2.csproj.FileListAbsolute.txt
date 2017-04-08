@@ -1,0 +1,5 @@
+d:\Users\seanf\Documents\Visual Studio 2015\Projects\S8_L67\P2\bin\Debug\P2.exe.config
+d:\Users\seanf\Documents\Visual Studio 2015\Projects\S8_L67\P2\bin\Debug\P2.exe
+d:\Users\seanf\Documents\Visual Studio 2015\Projects\S8_L67\P2\bin\Debug\P2.pdb
+d:\Users\seanf\Documents\Visual Studio 2015\Projects\S8_L67\P2\obj\Debug\P2.exe
+d:\Users\seanf\Documents\Visual Studio 2015\Projects\S8_L67\P2\obj\Debug\P2.pdb
